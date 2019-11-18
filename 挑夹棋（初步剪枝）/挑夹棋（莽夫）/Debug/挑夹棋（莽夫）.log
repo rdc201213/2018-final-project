@@ -1,0 +1,5 @@
+﻿  源.c
+c:\users\任冬晨\source\repos\挑夹棋（莽夫）\挑夹棋（莽夫）\源.c(250): warning C4013: “Max”未定义；假设外部返回 int
+c:\users\任冬晨\source\repos\挑夹棋（莽夫）\挑夹棋（莽夫）\源.c(335): warning C4090: “函数”: 不同的“const”限定符
+c:\users\任冬晨\source\repos\挑夹棋（莽夫）\挑夹棋（莽夫）\源.c(447): warning C4013: “gets”未定义；假设外部返回 int
+  挑夹棋（莽夫）.vcxproj -> C:\Users\任冬晨\source\repos\挑夹棋（莽夫）\Debug\挑夹棋（莽夫）.exe

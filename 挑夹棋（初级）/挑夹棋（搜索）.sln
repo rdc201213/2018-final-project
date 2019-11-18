@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "挑夹棋（搜索）", "挑夹棋（搜索）\挑夹棋（搜索）.vcxproj", "{4600B064-A08A-491D-9C85-64A80A14AD80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4600B064-A08A-491D-9C85-64A80A14AD80}.Debug|x64.ActiveCfg = Debug|x64
+		{4600B064-A08A-491D-9C85-64A80A14AD80}.Debug|x64.Build.0 = Debug|x64
+		{4600B064-A08A-491D-9C85-64A80A14AD80}.Debug|x86.ActiveCfg = Debug|Win32
+		{4600B064-A08A-491D-9C85-64A80A14AD80}.Debug|x86.Build.0 = Debug|Win32
+		{4600B064-A08A-491D-9C85-64A80A14AD80}.Release|x64.ActiveCfg = Release|x64
+		{4600B064-A08A-491D-9C85-64A80A14AD80}.Release|x64.Build.0 = Release|x64
+		{4600B064-A08A-491D-9C85-64A80A14AD80}.Release|x86.ActiveCfg = Release|Win32
+		{4600B064-A08A-491D-9C85-64A80A14AD80}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F13FFCC1-4B9B-45D9-BED3-1AB417F7A933}
+	EndGlobalSection
+EndGlobal
